@@ -15,3 +15,7 @@
 Необходимо реализовать метод разворота связного списка (двухсвязного или односвязного на выбор).
 
 [Решение](https://github.com/psyfluid/gb02-1-8_algorithms/tree/main/src/java/gb/hw03)
+
+TEST  
+TEST TEST  
+TEST TEST TEST  
